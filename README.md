@@ -3,7 +3,16 @@ Docker Rocky Linux Systemd
 
 This Dockerfile can build containers capable to use systemd.
 
-[![rockylinux build status](https://img.shields.io/docker/cloud/build/robertdebock/rockylinux.svg)](https://hub.docker.com/repository/docker/robertdebock/rockylinux)
+[![build status badge](https://img.shields.io/github/actions/workflow/status/zasfe/docker-rockylinux-systemd/build-push-action.yml?branch=main&label=GitHub%20CI)](https://github.com/zasfe/docker-rockylinux-systemd/actions?query=workflow%3A%22GitHub+CI%22+branch%3Amain) 
+![Docker Automated build](https://img.shields.io/docker/automated/zasfe/rockylinux?label=Docker%20Automated%20build)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/zasfe/rockylinux?label=Docker%20Cloud%20Automated%20build)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/zasfe/rockylinux?label=Docker%20Cloud%20Build%20Status)
+
+[![Docker Image Version (tag)](https://img.shields.io/docker/v/zasfe/centos/main)](https://hub.docker.com/r/zasfe/rockylinux)
+[![Docker Stars](https://img.shields.io/docker/stars/zasfe/centos.svg)](https://hub.docker.com/r/zasfe/rockylinux) 
+[![Docker Pulls](https://img.shields.io/docker/pulls/zasfe/centos.svg)](https://hub.docker.com/r/zasfe/rockylinux) 
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/zasfe/rockylinux/main?label=Docker%20Image%20Size)](https://hub.docker.com/r/zasfe/rockylinux) 
+
 
 Branches
 --------
